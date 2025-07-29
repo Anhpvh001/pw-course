@@ -1,0 +1,10 @@
+const name = "Nguyễn Văn A";
+const email = "example1@gmail.com";
+const productName = "MacBook Pro";
+const description = "Khoá học JavaScript cơ bản";
+let positionName = name.indexOf("a");
+console.log(positionName);
+let positionEmail = email.indexOf("@");
+console.log(positionEmail);
+let positionDescription = description.indexOf("JavaScript");
+console.log(positionDescription);

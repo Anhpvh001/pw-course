@@ -1,0 +1,10 @@
+const name = "Nguyễn Văn A";
+const email = "example1@gmail.com";
+const productName = "MacBook Pro";
+const description = "Khoá học JavaScript cơ bản";
+let checkName = name.includes("Nguyễn");
+console.log(checkName);
+let checkEmail = email.includes("@");
+console.log(checkEmail);
+let checkProductName = productName.includes("Pro");
+console.log(checkProductName);

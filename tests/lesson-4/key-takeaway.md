@@ -1,0 +1,32 @@
+# Javascript
+- **Phạm vi của biến**
+    - Var : có thể truy cập vào biến trc khi khai báo 
+    - Let : phải khai báo trc xong mới dùng đc biến
+- **Điều kiện if..else, if..else if, swith case**
+- **So sánh lỏng lẻo và tuyệt đối**
+    - Lỏng lẻo: == vs != only so sánh giá trị
+    - Tuyệt đối: === vs !== so sánh cả giá trị và kiểu dữ liệu
+- **Vòng lặp nâng cao**
+    - for in
+    - forEach
+    - for of
+    - break and continue
+- **String util**
+    - trim()
+    - toLowerCase() và toUpperCase()
+    - includes()
+    - replace()
+    - split()
+    - substring()
+    - indexOf()
+- **util function**
+    - map
+    - filter
+    - find
+    - reduce
+    - some
+    - every
+    - push
+    - shift
+    - sort
+- Note: Các ví dụ demo trong foder K16-practice

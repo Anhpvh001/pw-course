@@ -1,0 +1,11 @@
+const scores = [85, 90, 78];
+const ages = [18, 21, 16, 25];
+const words = ["apple", "banana", "cherry", "date"];
+const numbers = [1, 2, 3, 4];
+const expenses = [50, 100, 150];
+let checkScore = scores.every(number => number > 70);
+let checkAge = ages.every(age => age > 15);
+let checkWord = words.every(word => word.length > 3);
+console.log(checkScore);
+console.log(checkAge);
+console.log(checkWord);  
